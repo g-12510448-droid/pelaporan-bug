@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    background-color: #f9f9f9;
+}
+
+label {
+    font-weight: bold;
+}
+
+input, select {
+    padding: 6px;
+    margin-bottom: 10px;
+}
